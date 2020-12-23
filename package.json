@@ -6,6 +6,9 @@
     "private": true,
     "main": "./main.js",
     "homepage": "./",
+    "scripts": {
+        "start": "cross-env  NODE_ENV=development   electron ./main.js"
+    },
     "DEV": false,
     "browserslist": [
         "Chrome >= 60"
@@ -14,10 +17,10 @@
         "electron-log": "^3.0.1",
         "jsonpath": "1.0.3",
         "mysql": "^2.16.0",
-        "sqlite": "3.0.5",
-        "oracledb": "4.2.0",
+        "oap-zh": "2.0.9",
         "octopus-xlite": "0.0.1",
-        "oap-zh": "2.0.9"
+        "oracledb": "4.2.0",
+        "sqlite": "^3.0.5"
     },
     "version": "8.2.0"
 }
