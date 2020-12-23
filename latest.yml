@@ -1,0 +1,10 @@
+version: 8.0.20
+files:
+    - url: http://updates.skieer.com/client_updates_v8/Octopus Setup 8.0.20.exe
+      sha512: iC/LY4RzHjTa/jkIcyN1da8tsReLCvDFz0X1qrfIIOfq3r0dT3PvACvGlZZ6En05CqYcgwPnISs15PQPRCE6rw==
+      size: 64790916
+path: http://updates.skieer.com/client_updates_v8/Octopus Setup 8.0.20.exe
+sha512: iC/LY4RzHjTa/jkIcyN1da8tsReLCvDFz0X1qrfIIOfq3r0dT3PvACvGlZZ6En05CqYcgwPnISs15PQPRCE6rw==
+releaseDate: '2020-1-17T00:00:01.835Z'
+memo: ' 一 更新了啥啥啥是啊  <br> 啥时候啥啥好事好'
+isForced: false

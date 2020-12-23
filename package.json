@@ -1,0 +1,23 @@
+{
+    "name": "octopus",
+    "productName": "Octopus8",
+    "description": "八爪鱼采集器客户端",
+    "author": "深圳视界信息技术有限公司",
+    "private": true,
+    "main": "./main.js",
+    "homepage": "./",
+    "DEV": false,
+    "browserslist": [
+        "Chrome >= 60"
+    ],
+    "dependencies": {
+        "electron-log": "^3.0.1",
+        "jsonpath": "1.0.3",
+        "mysql": "^2.16.0",
+        "sqlite": "3.0.5",
+        "oracledb": "4.2.0",
+        "octopus-xlite": "0.0.1",
+        "oap-zh": "2.0.9"
+    },
+    "version": "8.2.0"
+}

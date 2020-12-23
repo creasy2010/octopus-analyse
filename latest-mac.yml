@@ -1,0 +1,10 @@
+version: 8.2.0
+files:
+    - url: Octopus-8.1.10.dmg
+      sha512: h4T/Nzcvu0ZIkQAJ2tWGFr4VfpLukok/4enMSOMVQq+uk1GG+Cyyeh9lXhnBocuqy6KETvzCfHyQL+9wd9KWJw==
+      size: 98962945
+path: Octopus-8.1.10-mac.zip
+sha512: uJqc8pKv4lwa7+Z0dLqt6fG04tkutSd8sRmfRFaWuqAoBaE+TDg2ldM0/lUqj97r1thq4h0GPsnkandDbhk8FQ==
+releaseDate: '2020-03-25T03:37:34.856Z'
+memo: ' 一 更新了啥啥啥是啊  <br> 啥时候啥啥好事好'
+isForced: false
